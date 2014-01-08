@@ -1,15 +1,9 @@
 
 public class main {
-	fguyfuyguyguyguy;
-	
-	
-	//test
-	
-	public Main(){
+	while (1)
+	{
 		
-		System.out.println("ezefez");
-		
-		
+		printf("\a");
 		
 	}
 }
