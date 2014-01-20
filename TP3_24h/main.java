@@ -1,9 +1,13 @@
 
 public class main {
-	while (1)
-	{
-		
-		printf("\a");
-		
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		printf("test");
 	}
+
 }
